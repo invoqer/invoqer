@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manivannan,
-- 👀 I’m interested in data science and to build up a better coding background,
+- 👀 I'm a data analyst with experience in Power BI, predictive analysis, time series analysis, forecasting.
 - 🌱 I’m currently learning ml with tensor flow, practicing codes and doing small projects.
 
 <!---
